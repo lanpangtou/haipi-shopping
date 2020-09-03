@@ -6,11 +6,14 @@
 
 ## 项目截图
 
-![](C:\Users\zy\Desktop\haipi\zyhaipi\doc\img\1.png)
 
-![](C:\Users\zy\Desktop\haipi\zyhaipi\doc\img\3.png)
+![image](https://github.com/lanpangtou/haipi-shopping/blob/master/doc/img/1.png)  
+![image](https://github.com/lanpangtou/haipi-shopping/blob/master/doc/img/3.png)  
+![image](https://github.com/lanpangtou/haipi-shopping/blob/master/doc/img/4.png)  
+![image](https://github.com/lanpangtou/haipi-shopping/blob/master/doc/img/5.png)  
+![image](https://github.com/lanpangtou/haipi-shopping/blob/master/doc/img/6.png)  
+![image](https://github.com/lanpangtou/haipi-shopping/blob/master/doc/img/7.png)  
 
-![](C:\Users\zy\Desktop\haipi\zyhaipi\doc\img\4.png)
 
 
 
