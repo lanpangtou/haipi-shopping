@@ -1,28 +1,18 @@
 # haipi-shopping
 
----
-
 ## 项目介绍
 
 ​	此系统是一个购物系统，基于SpringCloud+MyBatis实现，前端有两套页面分别是门户网站页面、后台管理页面，后端设计提供的数据接口是rest风格接口，可以继续扩展功能。
 
----
-
 ## 项目截图
 
-![](C:\Users\zy\Desktop\1.png)
+![](C:\Users\zy\Desktop\haipi\zyhaipi\doc\img\1.png)
 
-![](C:\Users\zy\Desktop\3.png)
+![](C:\Users\zy\Desktop\haipi\zyhaipi\doc\img\3.png)
 
-![](C:\Users\zy\Desktop\4.png)
+![](C:\Users\zy\Desktop\haipi\zyhaipi\doc\img\4.png)
 
-![](C:\Users\zy\Desktop\5.png)
 
-![](C:\Users\zy\Desktop\6.png)
-
-![](C:\Users\zy\Desktop\7.png)
-
----
 
 ## 后端模块介绍    
 
