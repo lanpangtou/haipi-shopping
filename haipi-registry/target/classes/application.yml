@@ -1,0 +1,12 @@
+server:
+  port: 12306
+
+spring:
+  application:
+    name:hp-registry
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:12306/eureka
+    register-with-eureka: false #不注册自己
+    fetch-registry: false #不拉取

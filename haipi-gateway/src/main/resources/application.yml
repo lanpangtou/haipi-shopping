@@ -1,0 +1,62 @@
+server:
+  port: 10010
+
+spring:
+  application:
+    name: api-gateway
+
+zuul:
+  #  配置路由规则   实现路由,实现反向代理和负载均衡
+  prefix: /api #添加路由前缀
+  routes:
+    item-service: /item/**
+    user-service: /user/**
+    page-service: /page/**
+    cart-service: /cart/**
+    order-service: /order/**
+    auth-service: /auth/**
+    alipay-service: /alipay/**
+    upload-service:
+      path: /upload/**
+      serviceId: upload-service
+      strip-prefix: false
+  add-host-header: true
+  sensitive-headers:
+
+hp:
+  jwt:
+    pubKeyPath: C:\Users\zy\Desktop\project\tmp\rsa\rsa.pub #公钥地址
+  filter:
+    allowPath:
+      - /api/user/check
+      - /api/user/register
+      - /api/user/code
+      - /api/item
+      - /api/page
+      - /api/auth
+      - /api/alipay
+      - /api/order/payment
+      - /api/order/notify
+      - /api/order/return
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:12306/eureka
+
+#配置熔断的超时时长
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000 #熔断超时时长
+
+#配置ribbon的超时时长  ribbon的超时时长不能大于熔断超时时长
+#ribbon的超时时长,默认真实值是  read+connect * 2
+ribbon:
+  ConnectionTimeout: 500 #ribbon连接超时时长
+  ReadTimeout: 2000 #ribbon读取超时时长
+  MaxAutoRetries: 0 #当前服务重试次数
+  MaxAutoRetriesNextServer: 0 #切换服务重试次数

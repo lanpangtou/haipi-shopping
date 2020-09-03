@@ -1,0 +1,23 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: upload-service
+  servlet:
+    multipart:
+      max-file-size: 10MB #限制文件上传的大小
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:12306/eureka
+
+fdfs:
+  connect-timeout: 2000
+  so-timeout: 25000
+  thumb-image:  #缩略图
+    width: 60
+    height: 60
+  tracker-list: #tracker地址
+    - 192.168.153.129:22122

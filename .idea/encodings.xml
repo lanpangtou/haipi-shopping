@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alipay-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-auth/haipi-auth-commen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-commen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-item/haipi-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-item/haipi-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-user/haipi-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haipi-user/haipi-user-service" charset="UTF-8" />
+  </component>
+</project>

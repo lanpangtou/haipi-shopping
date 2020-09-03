@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>详情页</title>
+    <meta name="description" content="嗨皮，中国线上购物的地标网站，亚洲超大的综合性购物平台，拥有10万多品牌商家。每日发布大量国内外商品！正品网购，上嗨皮！嗨皮千万大牌正品,品类全，一站购，支付安全，退换无忧！理想生活上嗨皮!">
+    <meta name="keywords" content="商城,网上购物,网购,进口食品,美容护理,母婴玩具,家用电器,手机数码,家居生活,服饰内衣,营养保健,钟表珠宝,饰品箱包,汽车生活,图书音像,礼品卡">
+    <link rel="icon" href="/image/icon.png" type="image/x-icon">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link  rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link  rel="stylesheet" type="text/css" href="/css/commen.css">
+    <link  rel="stylesheet" type="text/css" href="/css/detail.css">
+</head>
+<body>
+<div id="itemApp">
+<!--    快捷导航栏-->
+    <div>
+        <haipi-top></haipi-top>
+    </div>
+
+<!--        商品购买详情 start-->
+    <div class="detail-container">
+<!--        面包屑导航-->
+        <div class="crumb-wrap">
+            <div class="centre">
+                <div class="centre clearfix">
+                    <ul>
+                        <li th:each="category : ${categories}">
+                            <a href="#" th:text="${category.name}">手机通讯</a>>
+                        </li>
+                        <li><a href="#" th:text="${brand.name}">华为（HUAWEI）</a>></li>
+                        <li><a href="#" th:text="${spu.title}">华为荣耀Play4</a>></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+<!--        产品介绍-->
+        <div class="product-intro clearfix centre">
+<!--            预览区域-->
+            <div class="preview-wrap fl">
+                <div class="preview-img">
+                    <img :src="images[0]" alt="" width="450px" height="450px">
+                </div>
+                <div class="preview-list">
+                    <a href="javascript:;"><i class="arrow-prev"></i></a>
+                    <a href="javascript:;"><i class="arrow-next"></i></a>
+                    <ul class="list-item">
+                        <li class="current" v-for="(image, i) in images" :key="i">
+                            <img width="54px" height="54px" :src="image" alt="">
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+<!--            详细信息-->
+            <div class="item-info fr">
+               <div class="sku-name" v-text="sku.title">
+                   荣耀Play4T Pro 麒麟810芯片 OLED屏幕指纹 4800万高感光夜拍三摄 22.5W超级快充 全网通6GB+128GB 冰岛幻境
+               </div>
+                <div class="news" th:utext="${spu.subTitle}">
+                        限时优惠100元，到手价1399元！4800万高感光夜拍三摄，光学屏幕指纹，OLED珍珠屏！
+                        <a href="#">荣耀爆品特惠，选品质，购荣耀~</a>
+                </div>
+                <div class="goods-info">
+                    <dl class="goods-price">
+                        <dt>嗨皮价</dt>
+                        <dd>
+                            <i class="price" v-text="sku.price">￥1399.00</i>
+                            <a href="#">降价通知</a>
+                            <div class="remark style-color-red">累计评价 34万+</div>
+                        </dd>
+                    </dl>
+                    <dl  class="goods-Promotion">
+                        <dt>促销</dt>
+                        <dd>
+                            <div>
+                                <i class="lable">赠品</i>
+                                （赠完即止）
+                            </div>
+                            <div>
+                                <i class="lable">满额返卷</i>
+                                购买手机满69元返30元配件优惠券 <a href="#">详情 >></a>
+                            </div>
+                        </dd>
+                    </dl>
+                    <dl  class="goods-stock">
+                        <dt>配送至</dt>
+                        <dd>
+                            <div>四川省成都市 有货</div>
+                            <div>
+                                由 <span class="style-color-red">嗨皮</span> 发货, 并提供售后服务. 23:54前下单，预计明天(07月23日)送达
+                            </div>
+                        </dd>
+                    </dl>
+                    <dl class="choose-color" v-for="(value,key) in specialSpec" :key="key">
+                        <dt>
+                            <i>{{key}}</i>
+                        </dt>
+                        <dd v-for="(str, index) in value" :key="index">
+                            <a href="javascript:;" :class="{current: index===indexes[key]}" @click="indexes[key]=index">
+                                {{str}}<span v-if="index===indexes[key]" title="点击取消选择">&nbsp;</span>
+                            </a>
+                        </dd>
+                    </dl>
+                    <dl class="choose-version">
+                        <dt>购买方式</dt>
+                        <dd>
+                            <a class="current" href="javascript:;">官方标配</a>
+                            <a href="javascript:;"> 最高直降1280元</a>
+                            <a href="javascript:;">选联通联通不换号靓号 最高直降1280元</a>
+                        </dd>
+                    </dl>
+                    <dl class="choose-suit">
+                        <dt>套装</dt>
+                        <dd>
+                            <a class="current" href="javascript:;">优惠套装1</a>
+                            <a href="javascript:;">优惠套装2</a>
+                            <a href="javascript:;">优惠套装3</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="choose-addcar">
+                    <div class="choose-count fl">
+                        <input class="buy-num" v-model="num" type="text" value="10">
+                        <a class="add" href="javascript:;" @click="plus()">+</a>
+                        <a class="reduce" href="javascript:;" @click="mins()">-</a>
+                    </div>
+                    <a class="addcar fl" @click="addCart()">加入购物车</a>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--        商品购买详情 end-->
+
+<!--       商品详情 start-->
+    <div class="centre  clearfix">
+        <div class="aside fl">
+            <div class="aside-title">
+                <h3>热门推荐</h3>
+            </div>
+            <div class="plist">
+                <ul>
+                    <li>
+                        <div class="p-img"> <a href="#"><img width="180px" src="/image/item2.jpg" alt=""></a></div>
+                        <div class="p-name"><a href="#">华为 HUAWEI nova 7 5G 6400万后置四摄 5G SoC芯片 OLED极点全面</a></div>
+                        <div class="p-price">￥2999.00</div>
+                    </li>
+                    <li>
+                        <div class="p-img"> <a href="#"><img width="180px" src="/image/item2.jpg" alt=""></a></div>
+                        <div class="p-name"><a href="#">华为 HUAWEI nova 7 5G 6400万后置四摄 5G SoC芯片 OLED极点全面</a></div>
+                        <div class="p-price">￥2999.00</div>
+                    </li>
+                    <li>
+                        <div class="p-img"> <a href="#"><img width="180px" src="/image/item2.jpg" alt=""></a></div>
+                        <div class="p-name"><a href="#">华为 HUAWEI nova 7 5G 6400万后置四摄 5G SoC芯片 OLED极点全面</a></div>
+                        <div class="p-price">￥2999.00</div>
+                    </li>
+                    <li>
+                        <div class="p-img"> <a href="#"><img width="180px" src="/image/item2.jpg" alt=""></a></div>
+                        <div class="p-name"><a href="#">华为 HUAWEI nova 7 5G 6400万后置四摄 5G SoC芯片 OLED极点全面</a></div>
+                        <div class="p-price">￥2999.00</div>
+                    </li>
+                    <li>
+                        <div class="p-img"> <a href="#"><img width="180px" src="/image/item2.jpg" alt=""></a></div>
+                        <div class="p-name"><a href="#">华为 HUAWEI nova 7 5G 6400万后置四摄 5G SoC芯片 OLED极点全面</a></div>
+                        <div class="p-price">￥2999.00</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="detail fr">
+            <div class="tab-main clearfix">
+                <ul>
+                    <li class="current">商品介绍</li>
+                    <li>规格与包装</li>
+                    <li>售后保障</li>
+                    <li>商品评价(34万+)</li>
+                    <li>手机社区</li>
+                </ul>
+            </div>
+            <div class="tab-content">
+                <div class="item">
+                    <div class="p-parameter">
+                        <p class="ptitle">品牌： <a href="#">华为（HUAWEI）</a></p>
+                        <ul class="p-parameter-list clearfix">
+                            <li>商品名称：华为荣耀Play4TPro</li>
+                            <li>商品编号：100006728101</li>
+                            <li>商品毛重：385.00g</li>
+                            <li>商品产地：中国大陆</li>
+                            <li>CPU型号：麒麟810运行</li>
+                            <li>内存：6GB</li>
+                            <li>机身存储：128GB</li>
+                            <li>存储卡：NM存储卡</li>
+                            <li>摄像头数量：后置三摄</li>
+                            <li>后摄主摄像素：4800万像素</li>
+                            <li>前摄主摄像素：1600万像素</li>
+                            <li>主屏幕尺寸（英寸）：6.3英寸</li>
+                            <li>分辨率：全高清FHD+</li>
+                            <li>屏幕比例：19.6~20:9</li>
+                            <li>屏幕前摄组合：其他</li>
+                            <li>充电器：10V/2.25A</li>
+                            <li>热点：人脸识别，快速充电</li>
+                            <li>操作系统：Android(安卓)</li>
+                            <li>游戏性能：其他</li>
+                        </ul>
+                        <div class="paremeter-more">
+                            <a href="#">更多参数>></a>
+                        </div>
+                    </div>
+                    <div class="detail-item-img">
+                        <div class="img-item">
+                            <div th:utext="${detail.description}"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--       商品详情 end-->
+
+<!--        footer start-->
+    <div class="foot"></div>
+    <script src="/js/jquery.js"></script>
+    <script type="text/javascript">$(".foot").load("/foot.html");</script>
+<!--        footer end-->
+</body>
+<script src="/js/vue.js"></script>
+<script src="/js/axios.min.js"></script>
+<script src="/js/commen.js"></script>
+<script src="/js/qs.min.js"></script>
+<script th:inline="javascript">
+    // sku集合
+    const skus = /*[[${skus}]]*/ [];
+    // 规格参数id与name对
+    const paramMap = /*[[${specs}]]*/ {};
+    // 特有规格参数集合
+    const specialSpec = JSON.parse(/*[[${detail.specTemplate}]]*/ "");
+    // 初始化特有规格参数默认选中一个
+    const indexes = {};
+    const initIndex = skus[0].indexes.split("_");
+
+    Object.keys(specialSpec).forEach((key, i) => {
+        indexes[key] = parseInt(initIndex[i]);
+    });
+    const indexArr = skus.map(s => s.indexes);
+
+    const specs = JSON.parse(/*[[${detail.specifications}]]*/ "");
+</script>
+<script>
+    window.onselectstart = ()=>{return false};
+    var vm = new Vue({
+        el: "#itemApp",
+        data: {
+            skus,
+            paramMap,
+            specialSpec,
+            indexes,
+            specs,
+            num: 1
+        },
+        components:{
+            haipiTop: () => import("/js/page/top.js")
+        },
+        computed: {
+            sku(){
+                const index = Object.values(this.indexes).join("_");
+                return this.skus.find(s => s.indexes == index);
+            },
+            images(){
+                return this.sku.image ? this.sku.image.split(",") : [''];
+            }
+        },
+        methods: {
+            addCart() {
+                Hp.http.post("/cart/addCart",window.Qs.stringify({
+                    skuId: this.sku.id,
+                    title: this.sku.title,
+                    image: this.images[0],
+                    price: this.sku.price,
+                    count: this.num,
+                    ownSpec: JSON.stringify(this.sku.ownSpec),
+                })).then(res => {
+                    window.location = "http://www.haipi.com/mycart.html";
+                }).catch(()=> {
+                    alert("添加购物车失败");
+                })
+            },
+
+            plus() {
+                this.num++;
+            },
+            mins() {
+                if (this.num  > 1){
+                    this.num--;
+                }
+            }
+        },
+    });
+</script>
+</html>

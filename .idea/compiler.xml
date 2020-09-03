@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="haipi-order" />
+        <module name="haipi-auth-service" />
+        <module name="haipi-upload" />
+        <module name="haipi-user-service" />
+        <module name="haipi-gateway" />
+        <module name="haipi-page" />
+        <module name="haipi-cart" />
+        <module name="haipi-item-service" />
+        <module name="haipi-commen" />
+        <module name="haipi-registry" />
+        <module name="haipi-user-interface" />
+        <module name="alipay-demo" />
+        <module name="haipi-item-interface" />
+        <module name="haipi-auth-commen" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="interface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alipay-demo" options="-parameters" />
+      <module name="haipi-auth" options="-parameters" />
+      <module name="haipi-auth-commen" options="-parameters" />
+      <module name="haipi-auth-service" options="-parameters" />
+      <module name="haipi-cart" options="-parameters" />
+      <module name="haipi-commen" options="-parameters" />
+      <module name="haipi-gateway" options="-parameters" />
+      <module name="haipi-item" options="-parameters" />
+      <module name="haipi-item-interface" options="-parameters" />
+      <module name="haipi-item-service" options="-parameters" />
+      <module name="haipi-order" options="-parameters" />
+      <module name="haipi-page" options="-parameters" />
+      <module name="haipi-registry" options="-parameters" />
+      <module name="haipi-upload" options="-parameters" />
+      <module name="haipi-user" options="-parameters" />
+      <module name="haipi-user-interface" options="-parameters" />
+      <module name="haipi-user-service" options="-parameters" />
+      <module name="interface" options="-parameters" />
+      <module name="zyhaipi" options="-parameters" />
+    </option>
+  </component>
+</project>

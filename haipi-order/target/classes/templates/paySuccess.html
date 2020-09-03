@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>支付成功</title>
+    <link rel="icon" href="/image/icon.png" type="image/x-icon">
+    <link  rel="stylesheet" th:href="@{/css/reset.css}" href="../static/css/reset.css"/>
+    <link  rel="stylesheet" th:href="@{/css/commen.css}" href="../static/css/commen.css"/>
+    <link  rel="stylesheet" th:href="@{/css/pay-success.css}" href="../static/css/pay-success.css"/>
+</head>
+<body>
+<div id="itemApp">
+    <div id="header">
+<!--        <haipi-top></haipi-top>-->
+    </div>
+
+    <!--主内容-->
+    <div class="paysuccess">
+        <div class="success">
+            <h3><img th:src="${/image/right.png}" src="../static/image/right.png" width="40" height="40" style="vertical-align: -10px">　恭喜您，支付成功啦！</h3>
+            <div class="paydetail">
+                <p>支付方式：支付宝支付</p>
+                <p>支付金额：￥<span th:text="${price}"></span>元</p>
+                <p class="button"><a href="http://www.haipi.com/order-pay.html" class="p-btn">查看订单</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.haipi.com" class="p-btn">继续购物</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<!--        footer start-->
+<div class="foot"></div>
+<script type="text/javascript" src="../static/js/jquery.js" th:src="/js/jquery.js"></script>
+<script type="text/javascript">
+    $(".foot").load("./foot.html");
+</script>
+<!--        footer end-->
+</body>
+<script src="../static/js/vue.js" th:src="@{/js/vue.js}"></script>
+<script src="../static/js/vue-router.js" th:src="@{/js/vue-router.js}"></script>
+<script th:src="@{/js/axios.min.js}"></script>
+<script th:src="@{/js/commen.js}"></script>
+<script th:src="@{/js/qs.min.js}"></script>
+<script th:inline="javascript">
+    window.onselectstart = ()=>{return false};
+
+    var vm = new Vue({
+        el: "#itemApp",
+        components:{
+            // haipiTop: () => import("../static/js/page/top.js")
+        }
+    });
+</script>
+</html>

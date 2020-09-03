@@ -1,0 +1,20 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: page-service
+  thymeleaf:
+    cache: false # 关闭thymeleaf缓存
+  main:
+    allow-bean-definition-overriding: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:12306/eureka
+
+logging:
+  level:
+    com.haipi: debug
+ribbon:
+  eureka:
+    enabled: true

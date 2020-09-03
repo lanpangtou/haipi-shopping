@@ -1,0 +1,9 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: alipay-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:12306/eureka

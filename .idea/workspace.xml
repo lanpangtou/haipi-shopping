@@ -1,0 +1,2615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/haipi-page/src/main/resources/templates/detail.html" line="226" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="905312db-1cde-43a9-b8b2-1d3059b01661" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-item/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-commen/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-registry/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-item/haipi-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-upload/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-user/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-item/interface/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-item/haipi-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-cart/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-page/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-order/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-auth/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-auth/haipi-auth-commen/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-auth/haipi-auth-service/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-user/haipi-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/haipi-user/haipi-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/alipay-demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zyhaipi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-interface/src/main/java/com/haipi/api/UserApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-interface/src/main/java/com/haipi/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="44" column="15" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/web/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/CategoryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/SpuMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/GoodsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="183" column="7" lean-forward="true" selection-start-line="183" selection-start-column="7" selection-end-line="183" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/CategoryServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/SpuDetailMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/SpecificationServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-304">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>total</find>
+      <find>each</find>
+      <find>service</find>
+      <find>0</find>
+      <find>orderId</find>
+      <find>out</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/resources/static/css/commen.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/CategoryMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/SpecificationController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/client/SpecificationClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/BrandController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/pojo/Cart.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/pojo/SpecificationParam.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/SpecificationServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/service/impl/CartServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/client/AddressClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/BrandMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/web/CartController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/resources/static/js/commen.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/BrandServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/client/GoodsClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/client/CategoryClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/resources/static/js/page/shortcut.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/BrandService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/client/BrandClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/enums/OrderEnums.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/resources/static/js/page/top.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/auth/config/JwtProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/IdWorker.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/config/IdWorkerProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/CookieUtils.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/service/CartService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-upload/src/main/java/com/haipi/config/FastClientImpoter.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/resources/application.yml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/auth/service/impl/AuthServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/auth/web/AuthController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/GoodsService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/GoodsController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-commen/src/main/java/com/haipi/auth/entity/UserInfo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/auth/client/UserClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/pojo/Stock.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/pojo/SpuDetail.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-page/src/main/java/com/haipi/web/PageController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/pojo/Spu.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-commen/src/main/java/com/haipi/auth/utils/JwtUtils.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-page/src/main/resources/templates/item.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-commen/src/main/java/com/haipi/auth/utils/JwtConstans.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/ItemApplication.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/SpecificationParamMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/SpecificationService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/vo/SpuVo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-page/src/main/java/com/haipi/page/service/impl/PageServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/SpuMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/GoodsServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-page/src/main/java/com/haipi/page/service/PageService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/advice/CommenExceptionHandle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/SpecificationGroupMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/exception/HaipiException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/StockMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/enums/ExceptionEnum.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/service/impl/UserServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/vo/ExceptionResult.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/vo/PageResult.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/interceptor/UserInterceptor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-page/src/main/resources/templates/detail.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/impl/OrderServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/OrderService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/web/OrderController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/OrderApplication.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/api/GoodsApi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/dto/OrderDto.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/vo/AlipayVo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/pojo/OrderStatus.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/pojo/OrderDetail.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/service/AlipayService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/service/impl/AlipayServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/mapper/OrderMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/web/AlipayController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/interceptor/UserInterceptor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/api/SpecificationApi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-user/haipi-user-interface/src/main/java/com/haipi/api/UserApi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/mapper/OrderStatusMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/config/AlipayConfig.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/mapper/OrderDetailMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/config/MvcConfig.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/resources/templates/paySuccess.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/pojo/SpecificationGroup.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/CategoryController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/web/PayController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/CategoryService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/resources/templates/payError.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/CategoryServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/config/JwtProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-upload/src/main/java/com/haipi/service/UploadService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/gateway/config/FilterProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/impl/AlipayServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/gateway/config/JwtProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/AlipayService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/config/AlipayConfig.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/gateway/filter/AuthFilter.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/OrderApplication.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/config/IdWorkerConfig.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/config/IdWorkerProperties.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/dto/OrderDto.java" />
+        <option value="$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/api/GoodsApi.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/pojo/OrderStatus.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/client/AddressClient.java" />
+        <option value="$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/NumberUtils.java" />
+        <option value="$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/CookieUtils.java" />
+        <option value="$PROJECT_DIR$/haipi-auth/haipi-auth-commen/src/main/java/com/haipi/auth/entity/UserInfo.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/config/AlipayVO.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/vo/AlipayVo.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/service/AlipayService.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/AlipayDemoApplication.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/alipay-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/vo/AlipayVo.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/interceptor/UserInterceptor.java" />
+        <option value="$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/interceptor/UserInterceptor.java" />
+        <option value="$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/ItemApplication.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/config/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/web/AlipayController.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/service/CartService.java" />
+        <option value="$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/web/CartController.java" />
+        <option value="$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/enums/ExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/web/AlipayController.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/alipay-demo/src/main/java/com/haipi/alipay/service/impl/AlipayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/haipi-order/pom.xml" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/AlipayService.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/web/OrderController.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/impl/AlipayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/web/PayController.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/static/css/test.css" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/static/js/commen.js" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/static/js/page/shortcut.js" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/static/js/page/top.js" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/static/css/commen.css" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/templates/payError.html" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/resources/templates/paySuccess.html" />
+        <option value="$PROJECT_DIR$/haipi-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/web/UserController.java" />
+        <option value="$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/GoodsServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software2\maven_repository" />
+        <option name="mavenHome" value="D:/Software2/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Software2\Maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="alipay-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="advice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-commen" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-registry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zyhaipi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyhaipi" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haipi" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/haipi-order/src/main/resources/static/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haipi.order.web" />
+      <recent name="com.haipi.vo" />
+      <recent name="com.haipi.order.config" />
+      <recent name="com.haipi.order.service" />
+      <recent name="com.haipi.order.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zy\Desktop\project\haipi\zyhaipi\haipi-order\src\main\resources\static\js" />
+      <recent name="C:\Users\zy\Desktop\project\haipi\zyhaipi\haipi-order\src\main\resources\static\image" />
+      <recent name="C:\Users\zy\Desktop\project\haipi\zyhaipi\haipi-order\src\main\resources\static" />
+      <recent name="C:\Users\zy\Desktop\project\haipi\zyhaipi\haipi-order\src\main\resources\templates" />
+      <recent name="C:\Users\zy\Desktop\project\haipi\zyhaipi\haipi-order\src\main\resources\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18206708" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ItemApplication">
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="haipi-auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haipi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haipi.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="haipi-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haipi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haipi.CartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="haipi-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haipi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haipi.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="haipi-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haipi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haipi.ItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="haipi-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haipi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haipi.RegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.RegistryApplication" />
+      <item itemvalue="Spring Boot.ItemApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ItemApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.RegistryApplication" />
+        <item itemvalue="Spring Boot.AuthApplication" />
+        <item itemvalue="Spring Boot.CartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="905312db-1cde-43a9-b8b2-1d3059b01661" name="Default Changelist" comment="" />
+      <created>1595213621929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595213621929</updated>
+      <workItem from="1595213624905" duration="3234000" />
+      <workItem from="1595300116631" duration="2104000" />
+      <workItem from="1595312450061" duration="617000" />
+      <workItem from="1595321928925" duration="702000" />
+      <workItem from="1595322674677" duration="265000" />
+      <workItem from="1595322942072" duration="160000" />
+      <workItem from="1595380810784" duration="2049000" />
+      <workItem from="1595924466082" duration="2268000" />
+      <workItem from="1596020879385" duration="70000" />
+      <workItem from="1596021089179" duration="33000" />
+      <workItem from="1596028421705" duration="669000" />
+      <workItem from="1596078745225" duration="14000" />
+      <workItem from="1596112662569" duration="913000" />
+      <workItem from="1596157390238" duration="2834000" />
+      <workItem from="1596161988881" duration="11000" />
+      <workItem from="1596162081918" duration="5299000" />
+      <workItem from="1596172823565" duration="9372000" />
+      <workItem from="1596257361479" duration="2265000" />
+      <workItem from="1596271451378" duration="32000" />
+      <workItem from="1596295424182" duration="95000" />
+      <workItem from="1596348079266" duration="2058000" />
+      <workItem from="1596419504675" duration="5848000" />
+      <workItem from="1596428057215" duration="6100000" />
+      <workItem from="1596457475486" duration="6487000" />
+      <workItem from="1596502977986" duration="4083000" />
+      <workItem from="1596515772747" duration="7150000" />
+      <workItem from="1596543544740" duration="3908000" />
+      <workItem from="1596548033417" duration="427000" />
+      <workItem from="1596548771296" duration="5061000" />
+      <workItem from="1596589298335" duration="4307000" />
+      <workItem from="1596600672554" duration="5342000" />
+      <workItem from="1596634323882" duration="7007000" />
+      <workItem from="1596682316005" duration="7024000" />
+      <workItem from="1596717441869" duration="8359000" />
+      <workItem from="1596762115521" duration="7013000" />
+      <workItem from="1596773665551" duration="3466000" />
+      <workItem from="1596792644403" duration="3019000" />
+      <workItem from="1596807888957" duration="2761000" />
+      <workItem from="1596865119856" duration="4313000" />
+      <workItem from="1596895749225" duration="4706000" />
+      <workItem from="1596943386599" duration="6064000" />
+      <workItem from="1596951392624" duration="1087000" />
+      <workItem from="1596967774829" duration="14888000" />
+      <workItem from="1597021277305" duration="6219000" />
+      <workItem from="1597027790440" duration="3538000" />
+      <workItem from="1597034501192" duration="10758000" />
+      <workItem from="1597063934010" duration="11835000" />
+      <workItem from="1597113112579" duration="26703000" />
+      <workItem from="1597143499370" duration="17077000" />
+      <workItem from="1597194325247" duration="19254000" />
+      <workItem from="1597237259567" duration="1284000" />
+      <workItem from="1597240557216" duration="298000" />
+      <workItem from="1597241028557" duration="1784000" />
+      <workItem from="1597242818064" duration="5514000" />
+      <workItem from="1597285813816" duration="22567000" />
+      <workItem from="1597316192043" duration="15493000" />
+      <workItem from="1597367260724" duration="9192000" />
+      <workItem from="1597381069280" duration="8931000" />
+      <workItem from="1597393370086" duration="16678000" />
+      <workItem from="1597424319754" duration="114000" />
+      <workItem from="1597469468781" duration="13678000" />
+      <workItem from="1597497832498" duration="6970000" />
+      <workItem from="1597553711624" duration="3227000" />
+      <workItem from="1597568372060" duration="2730000" />
+      <workItem from="1597571241748" duration="7686000" />
+      <workItem from="1597630092058" duration="2326000" />
+      <workItem from="1597640414071" duration="1858000" />
+      <workItem from="1597644656460" duration="1157000" />
+      <workItem from="1597661656198" duration="130000" />
+      <workItem from="1597682144189" duration="33000" />
+      <workItem from="1597727761110" duration="417000" />
+      <workItem from="1597802233907" duration="35000" />
+      <workItem from="1597806458232" duration="1244000" />
+      <workItem from="1598162907931" duration="625000" />
+      <workItem from="1598317506096" duration="361000" />
+      <workItem from="1598680547164" duration="2031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_test1 - 2020.08.10 at 11h 16m 48s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.08.10 at 11h 21m 21s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.08.10 at 11h 23m 57s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.08.10 at 11h 29m 21s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.08.10 at 11h 31m 15s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.08.10 at 11h 32m 18s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.08.10 at 15h 20m 09s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.08.11 at 00h 35m 12s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.08.11 at 00h 35m 48s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="375231000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.23557048" />
+      <window_info id="Structure" order="1" sideWeight="0.5014006" side_tool="true" weight="0.18389262" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5014006" side_tool="true" weight="0.18389262" />
+      <window_info id="Web" order="7" sideWeight="0.5014006" side_tool="true" weight="0.18389262" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49579832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32913166" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" weight="0.26750702" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.25490198" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32913166" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" auto_hide="true" x="23" y="282" width="1490" height="270" id="Run Dashboard" order="15" sideWeight="0.4986577" weight="0.3669468" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.252349" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.18255034" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.18926175" />
+      <window_info id="Structure" order="1" sideWeight="0.5014006" side_tool="true" weight="0.18389262" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5014006" side_tool="true" weight="0.18389262" />
+      <window_info id="Web" order="7" sideWeight="0.5014006" side_tool="true" weight="0.18389262" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49579832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32913166" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.37254903" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.25490198" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32913166" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" auto_hide="true" x="23" y="282" width="1490" height="270" id="Run Dashboard" order="15" sideWeight="0.49932885" weight="0.39215687" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.252349" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.18255034" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/utils/SaltUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/api/GoodsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/pojo/Spu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/api/CategoryApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-page/src/main/java/com/haipi/web/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-page/src/main/java/com/haipi/page/service/impl/PageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="51" column="68" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/impl/AlipayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="190" column="22" selection-start-line="190" selection-start-column="22" selection-end-line="190" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="107" column="9" selection-start-line="104" selection-start-column="24" selection-end-line="107" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/web/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/service/impl/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="61" column="15" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-page/src/main/java/com/haipi/PageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-registry/src/main/java/com/haipi/RegistryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/ItemApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-order/src/main/java/com/haipi/order/config/AlipayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/CartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/AuthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/auth/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/auth/service/impl/AuthServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-auth/haipi-auth-service/src/main/java/com/haipi/auth/web/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-cart/src/main/java/com/haipi/cart/interceptor/UserInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/GatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/test/parseJwt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/gateway/config/GlobalCorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/gateway/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/gateway/config/FilterProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-gateway/src/main/java/com/haipi/gateway/filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-interface/src/main/java/com/haipi/pojo/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/CookieUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/utils/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/test/createJwt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/exception/HaipiException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/enums/ExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-commen/src/main/java/com/haipi/advice/CommenExceptionHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-order/src/main/resources/templates/foot.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-order/src/main/resources/templates/payError.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-interface/src/main/java/com/haipi/api/UserApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-interface/src/main/java/com/haipi/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-user/haipi-user-service/src/main/java/com/haipi/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/SpuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/mapper/SpuDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="183" column="7" lean-forward="true" selection-start-line="183" selection-start-column="7" selection-end-line="183" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/SpecificationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/web/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haipi-item/haipi-item-service/src/main/java/com/haipi/item/service/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|haipi-cart</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

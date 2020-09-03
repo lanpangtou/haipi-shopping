@@ -1,0 +1,32 @@
+server:
+  port: 8086
+
+spring:
+  application:
+    name: order-service
+  thymeleaf:
+    cache: false # 关闭thymeleaf缓存
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///haipi?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: 8190972
+
+  main:
+    allow-bean-definition-overriding: true
+  mvc:
+    static-path-pattern: /static/**
+  resources:
+    static-locations: /static/
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:12306/eureka
+
+hp:
+  jwt:
+    pubKeyPath: C:\Users\zy\Desktop\project\tmp\rsa\rsa.pub #公钥地址
+  worker:
+    workerId: 1 #当前机器id
+    dataCenterId: 1 #序列号

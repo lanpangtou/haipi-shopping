@@ -1,0 +1,51 @@
+
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,img,input,form,table,a,em,strong,b,u,i,button,span,b,i
+	{
+    margin: 0;
+    padding: 0;
+	font-size: 12px;
+	font-family: '����';
+	}
+ul,ol,li
+	{
+    list-style: none;	
+	}
+a {
+	text-decoration: none;
+	color: #666666;
+	}
+a:hover {
+	cursor: pointer;
+	color: #d44852;;
+	}
+table
+	{
+	border-collapse: collapse;
+	border-spacing: 0;
+	}
+em,strong,b,u,i
+	{
+	font-style: normal;
+	font-weight: normal;
+	}
+h1,h2,h3
+	{
+	font-weight: normal;
+	}
+img
+	{
+	border: 0 none;
+	}
+input,button{
+	border: none;
+	outline: none;
+}
+.clearfix:after {
+	content:" ";
+	height: 0;
+	display: block;
+	clear:both;
+}
+.clearfix {
+	zoom: 1;
+}

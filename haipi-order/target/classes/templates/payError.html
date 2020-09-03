@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>支付失败</title>
+    <link rel="icon" href="/image/icon.png" type="image/x-icon">
+    <link  rel="stylesheet" th:href="@{/css/reset.css}" href="../static/css/reset.css"/>
+    <link  rel="stylesheet" th:href="@{/css/commen.css}" href="../static/css/commen.css"/>
+    <link  rel="stylesheet" th:href="@{/css/pay-success.css}" href="../static/css/pay-success.css"/>
+</head>
+<body>
+<div id="itemApp">
+    <div id="header">
+<!--        <haipi-top></haipi-top>-->
+    </div>
+    <!--主内容-->
+    <div class="paysuccess">
+        <div class="success">
+            <h3><img th:src="${/image/right.png}" src="../static/image/right.png" width="40" height="40" style="vertical-align: -10px">　支付失败，请稍后再试！</h3>
+            <div class="paydetail">
+                <p>失败原因：支付异常</p>
+                <p>您可以先去<a href="http://www.haipi.com/index.html" style="color: #28a3ef;font-size: 14px">首页</a>逛逛</p>
+                <p class="button"><a href="order-pay.html" class="p-btn">重新支付</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<!--        footer start-->
+<div class="foot"></div>
+<script type="text/javascript" src="../static/js/jquery.js" th:src="/js/jquery.js"></script>
+<script type="text/javascript">
+    $(".foot").load("./foot.html");
+</script>
+<!--        footer end-->
+</body>
+<script src="../static/js/vue.js" th:src="@{/js/vue.js}"></script>
+<script th:src="@{/js/axios.min.js}"></script>
+<script th:src="@{/js/commen.js}"></script>
+<script th:src="@{/js/qs.min.js}"></script>
+<script type="text/javascript" th:inline="javascript">
+    window.onselectstart = ()=>{return false};
+    var vm = new Vue({
+        el: "#itemApp",
+        components:{
+            // haipiTop: () => import("../static/js/page/top.js")
+        }
+    });
+</script>
+</html>
